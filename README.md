@@ -47,12 +47,12 @@ pip install -r requirements.txt
 
 Usage
 
-Run prediction script:
+Run the prediction script:
 
 python predict_churn.py
 
 
-Optional: Run Streamlit web app:
+Optional: Run the Streamlit web app:
 
 streamlit run app.py
 
